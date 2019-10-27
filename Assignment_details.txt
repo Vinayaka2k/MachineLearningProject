@@ -1,0 +1,43 @@
+DETAILS ON PROJECT
+------------------------------------------------------------------
+
+1. The project will be evaluated for 40 marks and reduced to 20.
+2. Students will execute the project in groups of 3 (no less, no more unless inevitable)
+3. Each section (A,B,C etc) will execute 1 project.
+4. The shared folder has details on datasets, attributes and problem_statements.
+   Section-wise folders have been created. Students from respective sections will
+   work on the problem statement according to their folder.
+   
+5. The evaluation of the project wil be conducted on Nov 27th and Nov 29th.
+    (If it spills over, Nov 30th will also be utilized)
+	
+6. Break up of marks is as follows.
+    a) Presentation: 10 marks
+	b) Demo: 15 marks
+	c) Report: 5 marks
+	d) Viva: 10 marks
+	
+12. Out of 20 marks for project, 3 marks are allocated for "outstanding" work.
+    The criterion for “outstanding” work is: The Implementation must have a clear
+	mathematical basis. Report and demo must constitute clear parsing of
+	algorithm through data. If this is not done, the project will be evaluated out of
+	17 marks only. This does not mean students are guaranteed to get 17 marks. It
+	only means that their max marks will be 17.
+	
+13. Coding for the main algorithm MUST be done from scratch. 
+    Students can use third-party tools for visualization and other cosmetic work.
+	
+14. Code-plagirism will be dealt with severely.
+    Details are as follows:
+	
+	Upto 20% Plagirism: No penalty
+	Between 20% and 40%: 10 marks will be deducted (out of 20)
+	Above 40%: 0 marks will be awarded (project must be re-done)
+	
+15. Deliverables:
+
+    a. Code
+	b. Project report. (not exceeding 10 pages)
+	c. Presentation (PPT)
+	
+	
